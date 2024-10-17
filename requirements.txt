@@ -1,0 +1,7 @@
+openai
+python-docx
+python-dotenv
+pypandoc
+PyPDF2
+fpdf
+pdfplumber
